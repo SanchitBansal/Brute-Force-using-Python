@@ -30,5 +30,6 @@ Suppose there is a site named example.com and its has form at index 0 and having
 from bruteforce import BruteForce
 
 ob = BruteForce()
+
 print ob.call_brute_force('abcdef', 'http://www.example.com', 'http://www.example.com', [4,6], {'email':'random@gmail.com'}, 'pass', form_by_index = 0)
 
