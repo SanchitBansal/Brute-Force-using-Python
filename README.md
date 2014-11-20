@@ -1,4 +1,4 @@
-Brute-Force-using-Python
+HTTP-Brute-Force-using-Python
 ========================
 
 Script to attack brute force using python language. This was made for personal use.
