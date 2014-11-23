@@ -84,7 +84,7 @@ class BruteForce:
 				print count
 				ss = product(search_string,repeat=count)
 				for each in ss:
-					(stat, res)=function(url, next_url, val, keyValues,bruteforce_key,''.join(each)})
+					(stat, res)=function(url, next_url, val, keyValues,bruteforce_key,''.join(each))
 					if stat:
 						self.bro.closeconn()
 						return "Congratulations, you hacked the system.. Result is %s",''.join(each)
